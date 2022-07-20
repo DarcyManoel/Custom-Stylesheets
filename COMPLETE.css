@@ -2,6 +2,15 @@
 div.aUx{
 	display:none;
 }
+/*stackOverflow*/
+	/*advertisements*/
+	.js-consent-banner,
+	#google_image_div
+	{
+		display:none;
+		opacity:0;
+		user-select:none;
+	}
 /*youtube*/
 tp-yt-paper-dialog{
 	display:none;
