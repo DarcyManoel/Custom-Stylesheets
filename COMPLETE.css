@@ -5,7 +5,8 @@ div.aUx{
 /*stackOverflow*/
 	/*advertisements*/
 	.js-consent-banner,
-	#google_image_div
+	#google_image_div,
+	#launch-popover
 	{
 		display:none;
 		opacity:0;
